@@ -17,8 +17,9 @@
   <br/><br/>
 
   <!-- GITHUB STATS & TOP LANGS (Đã fix URL hoạt động 100%) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tkiennt&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tkiennt&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=tkiennt&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/tkiennt/github-stats/generated/overview.svg#gh-dark-mode-only" height="185" alt="GitHub Stats Dark" />
+  <img src="https://raw.githubusercontent.com/tkiennt/github-stats/generated/overview.svg#gh-light-mode-only" height="185" alt="GitHub Stats Light" />
+  <img src="https://raw.githubusercontent.com/tkiennt/github-stats/generated/languages.svg#gh-dark-mode-only" height="185" alt="Top Languages Dark" />
+  <img src="https://raw.githubusercontent.com/tkiennt/github-stats/generated/languages.svg#gh-light-mode-only" height="185" alt="Top Languages Light" />
 
 </div>
